@@ -1,5 +1,5 @@
 # Recitation-013-Team-1
-LeeLee James @TwirlingTechGoddess
+LeeLee James [@TwirlingTechGoddess](https://github.com/twirlingtechgoddess "LeeLee's Profile")
 
 Batool Hani @Batoolfh
 

@@ -1,7 +1,5 @@
 
 # Recitation-013-Team-1
-"Project Team Members:
-
 LeeLee James [@TwirlingTechGoddess](https://github.com/twirlingtechgoddess "LeeLee's Profile").
 
 Batool Hani [@Batoolfh](https://github.com/Batoolfh "Batool's Profile").

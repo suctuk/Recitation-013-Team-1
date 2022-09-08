@@ -1,7 +1,3 @@
-Project Team Members:
-Owen Newton 
-
-
 I (cutoa) am editing this file for demonstration purposes.
 
 # Recitation-013-Team-1
@@ -21,3 +17,5 @@ CREATING A MERGE CONFLICT 2
  test changes in review
  
 creating yet another merge conflict. -Jason 
+Hello! edit file
+Practice edit file again

@@ -1,8 +1,16 @@
+<<<<<<< HEAD
+
+# Recitation-013-Team-1
+
+"Project Team Members:
+
+=======
 I (cutoa) am editing this file for demonstration purposes.
 
 # Recitation-013-Team-1
 
-LeeLee James [@TwirlingTechGoddess](https://github.com/twirlingtechgoddess "LeeLee's Profile").
+> > > > > > > a4fc0e3a196487668881e354a00e89cac9748b95
+> > > > > > > LeeLee James [@TwirlingTechGoddess](https://github.com/twirlingtechgoddess "LeeLee's Profile").
 
 Batool Hani [@Batoolfh](https://github.com/Batoolfh "Batool's Profile").
 
